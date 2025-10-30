@@ -125,23 +125,23 @@ sum(rate(container_network_transmit_bytes_total{namespace="default"}[5m])) by (p
 ##  Result & Dashboards
 
 ### Voting App Interface
-![Voting App](<Screenshot 2025-10-30 185513.png>)
+![Voting App](c:\Users\tribh\OneDrive\Pictures\Screenshots\Screenshot 2025-10-30 185513.png)
 
 ### Prometheus Dashboard
-![Prometheus](<Screenshot 2025-10-30 185528-1.png>)
+![Prometheus](c:\Users\tribh\OneDrive\Pictures\Screenshots\Screenshot 2025-10-30 185528.png)
 
 ### Voting Result
-![Voting Result](<Screenshot 2025-10-30 185809.png>)
+![Voting Result](c:\Users\tribh\OneDrive\Pictures\Screenshots\Screenshot 2025-10-30 185809.png)
 
 ### Grafana Login
-![Grafana Login](<Screenshot 2025-10-30 191508.png>)
+![Grafana Login](c:\Users\tribh\OneDrive\Pictures\Screenshots\Screenshot 2025-10-30 191508.png)
 
 ### Grafana Dashboards
-![Grafana Dashboard 1](<Screenshot 2025-10-30 194225.png>)
-![Grafana Dashboard 2](<Screenshot 2025-10-30 194251.png>)
-![Grafana Dashboard 3](<Screenshot 2025-10-30 194314.png>)
-![Grafana Dashboard 4](<Screenshot 2025-10-30 194329.png>)
-![Grafana Dashboard 5](<Screenshot 2025-10-30 194421.png>)
+![Grafana Dashboard 1](c:\Users\tribh\OneDrive\Pictures\Screenshots\Screenshot 2025-10-30 194225.png)
+![Grafana Dashboard 2](c:\Users\tribh\OneDrive\Pictures\Screenshots\Screenshot 2025-10-30 194251.png)
+![Grafana Dashboard 3](c:\Users\tribh\OneDrive\Pictures\Screenshots\Screenshot 2025-10-30 194314.png)
+![Grafana Dashboard 4](c:\Users\tribh\OneDrive\Pictures\Screenshots\Screenshot 2025-10-30 194329.png)
+![Grafana Dashboard 5](c:\Users\tribh\OneDrive\Pictures\Screenshots\Screenshot 2025-10-30 194421.png)
 
 ---
 
